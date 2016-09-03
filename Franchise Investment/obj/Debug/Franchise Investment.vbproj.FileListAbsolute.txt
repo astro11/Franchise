@@ -1,0 +1,12 @@
+c:\users\jetstream\documents\visual studio 2015\Projects\Franchise Investment\Franchise Investment\bin\Debug\Franchise Investment.exe.config
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Franchise Investment\Franchise Investment\bin\Debug\Franchise Investment.exe
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Franchise Investment\Franchise Investment\bin\Debug\Franchise Investment.pdb
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Franchise Investment\Franchise Investment\bin\Debug\Franchise Investment.xml
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Franchise Investment\Franchise Investment\obj\Debug\Franchise Investment.vbprojResolveAssemblyReference.cache
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Franchise Investment\Franchise Investment\obj\Debug\Franchise_Investment.frmDisplay.resources
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Franchise Investment\Franchise Investment\obj\Debug\Franchise_Investment.frmInvestment.resources
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Franchise Investment\Franchise Investment\obj\Debug\Franchise_Investment.Resources.resources
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Franchise Investment\Franchise Investment\obj\Debug\Franchise Investment.vbproj.GenerateResource.Cache
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Franchise Investment\Franchise Investment\obj\Debug\Franchise Investment.exe
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Franchise Investment\Franchise Investment\obj\Debug\Franchise Investment.xml
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Franchise Investment\Franchise Investment\obj\Debug\Franchise Investment.pdb
